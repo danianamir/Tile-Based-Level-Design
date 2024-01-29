@@ -7,6 +7,6 @@
  
  ۱- طراحی محیط در شبیه سازی unity  که هدف ان مشخص کردن فضای حالت و اکشن و پاداش داده شده به عامل در هنگام طراحی سطح بازی میباشد (سورس کد این قسمت در پوشه  (https://github.com/danianamir/Tile-Based-Level-Design/tree/main/codes/environment_unity)میباشد) 
  
- ۲- اموزش دادن عامل با استفاده از کتابخانه rllib که به محیط طراحی شده در unity وصل میشود و عامل را اموزش میدهد ( سورس کد این قسمت در پوشه (https://github.com/danianamir/Tile-Based-Level-Design/tree/main/codes/training) میباشد.
+ ۲- اموزش دادن عامل با استفاده از کتابخانه rllib که به محیط طراحی شده در unity وصل میشود و عامل را اموزش میدهد ( سورس کد این قسمت در پوشه (https://github.com/danianamir/Tile-Based-Level-Design/tree/main/codes/training) ) میباشد.
 
  همچنین محیط کامپایل شده که برای اجرا به rllib متصل میشود در پوشه unity_built_linux و unity_built_window قرار دارد و در پوشه ALGO الگوریتم اموزش داده شده به وسیله rllib قرار دارد .
