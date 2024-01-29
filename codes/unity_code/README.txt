@@ -1,1 +1,0 @@
-در فایل learnerinstantiator فایل 
