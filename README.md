@@ -12,4 +12,4 @@
 
  همچنین محیط کامپایل شده که برای اجرا به rllib متصل میشود در پوشه unity_built_linux و unity_built_window قرار دارد و در پوشه ALGO الگوریتم اموزش داده شده به وسیله rllib قرار دارد .
 
-![[image URL](https://github.com/danianamir/Tile-Based-Level-Design/blob/main/Untitled.jpg)https://github.com/danianamir/Tile-Based-Level-Design/blob/main/Untitled.jpg]
+![image URL](https://github.com/danianamir/Tile-Based-Level-Design/blob/main/Untitled.jpg)
