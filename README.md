@@ -5,7 +5,8 @@
 
  پیاده سازی کد به ۲ بخش تقسیم شده است
  
- ۱- طراحی محیط در شبیه سازی unity  که هدف ان مشخص کردن فضای حالت و اکشن و پاداش داده شده به عامل در هنگام طراحی سطح بازی میباشد (سورس کد این قسمت در پوشه  (https://github.com/danianamir/Tile-Based-Level-Design/tree/main/codes/environment_unity)میباشد) 
+ ۱- طراحی محیط در شبیه سازی unity  که هدف ان مشخص کردن فضای حالت و اکشن و پاداش داده شده به عامل در هنگام طراحی سطح بازی میباشد
+ (سورس کد این قسمت در پوشه  (https://github.com/danianamir/Tile-Based-Level-Design/tree/main/codes/environment_unity)  میباشد) 
  
  ۲- اموزش دادن عامل با استفاده از کتابخانه rllib که به محیط طراحی شده در unity وصل میشود و عامل را اموزش میدهد ( سورس کد این قسمت در پوشه (https://github.com/danianamir/Tile-Based-Level-Design/tree/main/codes/training) ) میباشد.
 
